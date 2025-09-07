@@ -1,0 +1,11 @@
+{
+  "Author": "Aspher0",
+  "Name": "XIV ATM",
+  "Punchline": "Let other players use you as an ATM",
+  "Description": "A plugin that lets you become an ATM, allowing players to withdraw gils from you with trigger phrases.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "ATM",
+    "gils"
+  ]
+}
