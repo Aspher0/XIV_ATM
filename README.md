@@ -1,2 +1,2 @@
 # XIVATM
- A FFXIV Plugin to let people use you as an ATM.
+ A FFXIV Plugin to let alts/other people withdraw gils from you.
